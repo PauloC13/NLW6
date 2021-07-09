@@ -1,0 +1,10 @@
+{
+  "expoServerNgrokUrl": "https://js-3kg.anonymous.gameplay.exp.direct",
+  "packagerNgrokUrl": "https://packager.js-3kg.anonymous.gameplay.exp.direct",
+  "ngrokPid": 4428,
+  "expoServerPort": null,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "webpackServerPort": null,
+  "devToolsPort": 19002
+}
